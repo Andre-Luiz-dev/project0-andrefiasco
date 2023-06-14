@@ -6,4 +6,7 @@ Hi, my name is André, i'm 19 years old and i'm starting now in progamming, for 
 
 1° Modificação para testar branches... 
 
-3° Branch criada IHUUU 
+3° Branch criada IHUUU
+
+1° Primeiro passo na programação focada no front-end : entender redes, depois aprender a mexer no git e github. https://www.youtube.com/watch?v=kB5e-gTAl_s 
+
